@@ -5,6 +5,7 @@
 
 <hr>
 
+
 <div align="center">
   <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Itz0day&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&order=2" alt="languages graph" />
 </div>
