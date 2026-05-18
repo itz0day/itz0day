@@ -1,47 +1,62 @@
 <div align="center">
-  <h1>👤 Itz0day</h1>
-  <p><em>"In a world of consumers, be the architect of your own shadows."</em></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0d1b2a&text=Itz0day&textBg=false&fontColor=90e0ef&animation=twinkling&reversal=true&section=header&fontSize=70&desc=OS%20Developer%20%7C%20Security%20Researcher&descSize=25&descAlignY=65"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=inherit&duration=3000&pause=200&color=00b4d8&multiline=true&width=500&height=50&lines=Forging+the+Rosery+Ecosystem...;Breaking+the+illusion+of+safety...)](https://git.io/typing-svg)
+
+<p><em>"In a world of consumers, be the architect of your own shadows."</em></p>
+
+<img height="140" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Itz0day&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" alt="languages graph" />
+
 </div>
 
-<hr>
+<hr style="border: 1px solid #1b263b;">
 
+## 🛡️ Skills
+* **OS Development:** Custom Linux Kernels, Btrfs Subvolume Architecture, Smart ISO Building
+* **Cybersecurity:** Advanced Penetration Testing, Dual-Init Configurations, Anti-Forensics
+
+## 🌹 Active Operation
+* **Project:** Rosery OS
+* **Objective:** Atomic, dual-profile environment leveraging Btrfs optimization with custom workflow switching.
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Itz0day&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&order=2" alt="languages graph" />
+  <img src="https://img.shields.io/badge/Main_Project-Rosery_OS-0077b6?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-v0.3_Development-00b4d8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Identity-Architect-0a192f?style=for-the-badge" />
 </div>
 
-<h2>🛡️ Arsenal (Skills)</h2>
-<ul>
-  <li>OS Development: Arch Linux, Kernel Optimization, Custom ISO</li>
-  <li>Cybersecurity: Pentesting, Anonymity Networks, Anti-Forensics</li>
-</ul>
-
-<h2>🌹 Ongoing Operation</h2>
-<p><strong>Project:</strong> RedRose OS<br>
-<strong>Objective:</strong> Trace-free, high-performance security distribution</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Main_Project-RedRose_OS-9A031E?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Identity-Anonymous-000000?style=for-the-badge" />
-</p>
-
-<h2>💻 Stack</h2>
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+## 💻 Tech Stack
+<div align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Python-0077b6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=00b4d8" />
+  <img src="https://img.shields.io/badge/C-005f73?style=for-the-badge&logo=c&logoColor=white" />
+</div>
 
-<h2>📡 Contact</h2>
-<p>
-  <a href="https://discord.gg/SsEprcjTAU" target="_blank" style="background:#5865F2;border:none;color:#fff;padding:8px 12px;border-radius:4px;text-decoration:none;">Join our Discord</a>
-  <a href="mailto:itz0day@tuta.io" style="background:#CC0000;border:none;color:#fff;padding:8px 12px;border-radius:4px;text-decoration:none;">Email</a>
-</p>
+## 📡 Core Nodes (Contact)
+<div align="center">
+  <a href="https://discord.gg/SsEprcjTAU" target="_blank">
+    <img src="https://img.shields.io/badge/Join_Discord-0077b6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:itz0day@tuta.io">
+    <img src="https://img.shields.io/badge/Secure_Mail-00b4d8?style=for-the-badge&logo=tutanota&logoColor=black" alt="Email" />
+  </a>
+</div>
 
-<hr>
+<hr style="border: 1px solid #1b263b;">
+
+## 📊 Performance Logs
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itz0day&bg_color=0a192f&color=00b4d8&line=00b4d8&point=90e0ef&area=true&hide_border=true" alt="Activity Graph" />
+  
+  <br>
+  
+  <a href="https://github.com/Itz0day">
+    <img src="https://streak-stats.demolab.com/?user=Itz0day&background=0a192f&ring=00b4d8&fire=90e0ef&currStreakLabel=00b4d8&sideLabels=00b4d8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats-fast.vercel.app/api?username=Itz0day&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=0" alt="stats graph" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0a192f&height=100&section=footer"/>
 </div>
