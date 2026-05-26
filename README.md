@@ -7,7 +7,6 @@
 <p><em>"In a world of consumers, be the architect of your own shadows."</em></p>
 
 
-<img src="https://komarev.com" alt="visitor counter" />
 
 </div>
 
