@@ -1,14 +1,12 @@
 <div align="center">
 
-<!-- Üst Banner ve Karşılama Animasyonu -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0d1b2a&text=Itz0day&textBg=false&fontColor=90e0ef&animation=twinkling&reversal=true&section=header&fontSize=70&desc=OS%20Developer%20%7C%20Security%20Researcher&descSize=25&descAlignY=65"/>
 
-<!-- Hareketli Yazı Efekti -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=inherit&duration=3000&pause=200&color=00b4d8&multiline=true&width=500&height=50&lines=Forging+the+Rosery+Ecosystem...;Breaking+the+illusion+of+safety...)
 
 <p><em>"In a world of consumers, be the architect of your own shadows."</em></p>
 
-<!-- Profil Ziyaretçi Sayacı -->
+
 <img src="https://komarev.com" alt="visitor counter" />
 
 </div>
@@ -82,11 +80,6 @@ itz0day@rosery-os:~\$ neofetch
 
 ## 📊 Performance Logs
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itz0day&bg_color=0a192f&color=00b4d8&line=00b4d8&point=90e0ef&area=true&hide_border=true" alt="Activity Graph" />
-  
-
-
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itz0day&bg_color=0a192f&color=00b4d8&line=00b4d8&point=90e0ef&area=true&hide_border=true" alt="Activity Graph" />
   
   <br>
