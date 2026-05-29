@@ -12,35 +12,38 @@
 
 ## 💻 Terminal System Info
 ```text
-itz0day@rosery-os:~$ neofetch
-       .---.         OS: Rosery OS v0.3 (Development)
-      /     \        Kernel: Custom Linux (Atomic & Dual-Profile)
-      \.@-@./        Architecture: Btrfs Optimized Workflow
-      /`\_/`\        Focus: Security Architecture / Anti-Forensics
-     //  _  \\       Status: Breaking illusions of safety.
-    | \     / |      "Forging tools for the modern digital underground."
+itz0day@rosery-linux:~$ neofetch
+       .---.        OS: Rosery Linux v0.4 (Development)
+      /     \       Kernel: Custom Linux (Artix & dinit Core)
+      \.@-@./       Architecture: Pure Decoupled & No-Systemd
+      /`\_/`\       Focus: 100% Privacy | 100% Cyber Security | 100% Daily Drive
+     //  _  \\      Status: Eliminating attack surfaces.
+    | \     / |     "Modular security environment for the digital underground."
    /`\_`---'_/`\     
-   \___________/     
+   \___________/   
 ```
 <hr style="border: 1px solid #ff0000;">
 
-🛡️ Core Capabilities & Arsenal
 🛠️ OS Development
-Kernel & Architecture: Custom Linux Kernels, Btrfs Subvolume Architecture
+Base & Init: Artix Linux Ecosystem, dinit Service Management (Systemd-free)
 
-Deployment: Smart ISO Building, Dual-Init Configurations
+Deployment: Smart ISO Generation via artix-iso-maker, TUI Netinstaller Mosaics
+
+Storage Architecture: Optimized Btrfs Subvolumes & Dynamic Scripting
 
 🔒 Cyber Security
-Defensive / Offensive: Advanced Penetration Testing, Anti-Forensics
+Defensive / Offensive: Advanced Penetration Testing, Anti-Forensics Tools
 
-Analysis: Vulnerability Research, Kernel Space Analysis
+Analysis: Vulnerability Research, Kernel Space Analysis, Attack Surface Reduction
 
 <hr style="border: 1px solid #ff0000;">
 
 🌹 Active Operations
-Project: Rosery OS
+Project: Rosery Linux
 
-Objective: Atomic, dual-profile environment leveraging Btrfs optimization with custom workflow switching.
+Objective: A hardened, non-systemd Linux distribution leveraging dinit and a Lego-like modular TUI netinstaller. Built strictly for professionals who demand total control over their privacy and security without compromising daily stability.
+
+(Gaming dependencies/opend are decoupled and entirely opt-in via installer).
 
 <br>
 
