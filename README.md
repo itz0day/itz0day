@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=000000&text=Itz0day&textBg=false&fontColor=ff0000&animation=twinkling&reversal=true&section=header&fontSize=70&desc=OS%20Developer%20%7C%20Security%20Researcher&descSize=25&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=000000&text=Itz0day&textBg=false&fontColor=ff0000&animation=twinkling&reversal=true&section=header&fontSize=60&desc=OS%20Developer%20%7C%20Cyber%20Security&descSize=25&descAlignY=65"/>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=inherit&duration=3000&pause=200&color=ffffff&multiline=true&width=500&height=50&lines=Forging+the+Rosery+Ecosystem...;Breaking+the+illusion+of+safety...)
 
@@ -13,8 +13,8 @@
 ## 💻 Terminal System Info
 ```text
 itz0day@rosery-linux:~$ neofetch
-       .---.        OS: Rosery Linux v0.4 (Development)
-      /     \       Kernel: Custom Linux (Artix & dinit Core)
+       .---.        OS: Rosery Linux v0.0 (Development)
+      /     \       Kernel: lts 
       \.@-@./       Architecture: Pure Decoupled & No-Systemd
       /`\_/`\       Focus: 100% Privacy | 100% Cyber Security | 100% Daily Drive
      //  _  \\      Status: Eliminating attack surfaces.
@@ -25,26 +25,17 @@ itz0day@rosery-linux:~$ neofetch
 <hr style="border: 1px solid #ff0000;">
 
 🛠️ OS Development
-Base & Init: Artix Linux Ecosystem, dinit Service Management (Systemd-free)
-
-Deployment: Smart ISO Generation via artix-iso-maker, TUI Netinstaller Mosaics
-
-Storage Architecture: Optimized Btrfs Subvolumes & Dynamic Scripting
+Base & Init: Rose linux(lfs), dinit Service Management (Systemd-free)
 
 🔒 Cyber Security
 Defensive / Offensive: Advanced Penetration Testing, Anti-Forensics Tools
 
-Analysis: Vulnerability Research, Kernel Space Analysis, Attack Surface Reduction
-
 <hr style="border: 1px solid #ff0000;">
 
 🌹 Active Operations
-Project: Rosery Linux
+Project: Rosery-OS
 
-Objective: A hardened, non-systemd Linux distribution leveraging dinit and a Lego-like modular TUI netinstaller. Built strictly for professionals who demand total control over their privacy and security without compromising daily stability.
-
-(Gaming dependencies/opend are decoupled and entirely opt-in via installer).
-
+Objective: writing our own base (rose)
 <br>
 
 <div align="center">
