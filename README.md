@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=000000&text=Itz0day&textBg=false&fontColor=ff0000&animation=twinkling&reversal=true&section=header&fontSize=60&desc=OS%20Developer%20%7C%20Cyber%20Security&descSize=25&descAlignY=65"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=inherit&duration=3000&pause=200&color=ffffff&multiline=true&width=500&height=50&lines=Forging+the+Rosery+Ecosystem...;Breaking+the+illusion+of+safety...)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=inherit&duration=3000&pause=200&color=ffffff&multiline=true&width=500&height=50&lines=i+am+itz+0day)
 
 <p><em>"In a world of consumers, be the architect of your own shadows."</em></p>
 
