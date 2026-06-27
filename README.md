@@ -2,20 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=000000&text=Itz0day&textBg=false&fontColor=ff0000&animation=twinkling&reversal=true&section=header&fontSize=60&desc=OS%20Developer%20%7C%20Cyber%20Security&descSize=25&descAlignY=65"/>
 
-<hr style="border: 1px solid #ff0000;">
 
-## 💻 Terminal System Info
-```text
-itz0day@rosery-linux:~$ neofetch
-       .---.        OS: Rosery Linux v0.0 (Development)
-      /     \       Kernel: lts 
-      \.@-@./       Architecture: Pure Decoupled & No-Systemd
-      /`\_/`\       Focus: 100% Privacy | 100% Cyber Security | 100% Daily Drive
-     //  _  \\      Status: Eliminating attack surfaces.
-    | \     / |     "Modular security environment for the digital underground."
-   /`\_`---'_/`\     
-   \___________/   
-```
 <hr style="border: 1px solid #ff0000;">
 
 🛠️ OS Development
