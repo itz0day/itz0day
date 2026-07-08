@@ -1,58 +1,42 @@
 <div align="center">
 
+<div align="center">
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=000000&text=Itz0day&textBg=false&fontColor=ff0000&animation=twinkling&reversal=true&section=header&fontSize=60&desc=OS%20Developer%20%7C%20Cyber%20Security&descSize=25&descAlignY=65"/>
 
 
-<hr style="border: 1px solid #ff0000;">
+---
 
-🛠️ OS Development
-Base & Init: Rose linux(lfs), dinit Service Management (Systemd-free)
+> "Precision is the foundation of stability."
 
-🔒 Cyber Security
-Defensive / Offensive: Advanced Penetration Testing, Anti-Forensics Tools
+---
 
-<hr style="border: 1px solid #ff0000;">
+### 🛠 PROJECT: ROSERY LINUX
+**Status**: Active Development
+**Stack**: Rust, C, LFS Principles
+**Mission**: Building a performance-first, systemd-free ecosystem.
+**Current Focus**: Custom package management implementation (Rust/Xbps-like).
 
-🌹 Active Operations
-Project: Rosery-OS
+---
 
-Objective: writing our own base (rose)
-<br>
+### 🔒 SECURITY PHILOSOPHY
+*   **Offensive**: Advanced Penetration Testing & Vulnerability Research.
+*   **Defensive**: Kernel Hardening & Anti-Forensics.
 
-<div align="center">
-<img src="https://img.shields.io/badge/Status-Black%20%7C%20White%20%7C%20Red-ff0000?style=for-the-badge&logo=dropbox&logoColor=white" />
-</div>
+---
 
-<hr style="border: 1px solid #ff0000;">
+### 💻 TECH STACK
+[ PYTHON ] • [ Rust ] • [ Bash ] • [ Kernel Engineering ]
 
-💻 Tech Stack
-<div align="center">
-<img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=ff0000" />
-<img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=ff0000" />
-<img src="https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/C-ff0000?style=for-the-badge&logo=c&logoColor=000000" />
-</div>
+---
 
-<hr style="border: 1px solid #ff0000;">
+### 📡 NETWORK
+[ Discord ](https://discord.gg/SsEprcjTAU)
 
-📡 Core Nodes (Contact)
-<div align="center">
-<a href="https://discord.gg/SsEprcjTAU" target="_blank">
-<img src="https://img.shields.io/badge/Join_Discord-000000?style=for-the-badge&logo=discord&logoColor=ff0000" alt="Discord" />
-</a>
-</div>
+<hr>
 
-<hr style="border: 1px solid #ff0000;">
-<div align="center">
-<img height="140" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Itz0day&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" alt="languages graph" />
-</div>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Itz0day&show_icons=true&theme=tokyonight&hide_border=true" />
 
-📊 Performance Logs
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Itz0day&bg_color=000000&color=ff0000&line=ffffff&point=ff0000&area=true&hide_border=true" alt="Activity Graph" />
-
-<br>
-
-<a href="https://github.com/Itz0day">
-<img src="https://streak-stats.demolab.com/?user=Itz0day&background=000000&ring=ff0000&fire=ffffff&currStreakLabel=ff0000&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=555555&hide_border=true" alt="GitHub Streak" />
 </div>
