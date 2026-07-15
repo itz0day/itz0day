@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠 PROJECT: ROSERY LINUX
+### 🛠 PROJECT: 🐍 Vebora GNU/Linux
 **Status**: Active Development
 **Stack**: Rust, C, LFS Principles
 **Mission**: Building a performance-first, systemd-free ecosystem.
