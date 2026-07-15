@@ -28,7 +28,7 @@
 ---
 
 ### 💻 TECH STACK
-[ PYTHON ] • [ Rust ] • [ Bash ] • [ Kernel Engineering ]
+[ PYTHON ] • [ RUST ] • [ BASH ] • [ C# ] [ C/C++ ] [ ARDUINO ] [ MicroPYTHON ] [ WEB ]
 
 ---
 
